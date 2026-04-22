@@ -1,0 +1,20 @@
+# FastAPI и зависимости
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+
+# Machine Learning и NLP
+sentence-transformers==2.3.1
+torch==2.2.0
+numpy==1.26.3
+
+# База данных
+psycopg2-binary==2.9.9
+
+# gRPC
+grpcio>=1.62.0
+grpcio-tools>=1.62.0
+protobuf>=4.25.0
+
+# Утилиты
+tqdm==4.66.1
